@@ -1,4 +1,4 @@
-package MethodStaticAndInstance;
+package java.MethodStaticAndInstance;
 
 public class Main {
     public static void main(String[] args) {
