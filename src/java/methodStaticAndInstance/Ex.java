@@ -1,4 +1,4 @@
-package java.MethodStaticAndInstance;
+package java.methodStaticAndInstance;
 
 public class Ex {
     int i;
