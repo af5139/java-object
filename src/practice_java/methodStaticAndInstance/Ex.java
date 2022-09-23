@@ -1,4 +1,4 @@
-package java.methodStaticAndInstance;
+package practice_java.methodStaticAndInstance;
 
 public class Ex {
     int i;
@@ -14,6 +14,8 @@ public class Ex {
 
     public static int add(int i,int j){//static 에서는 static만 사용 가능
     //    System.out.println(k); 인스턴스 변수를 사용할 수 없음
+        Ex ex = new Ex();
+        System.out.println(ex.k);//인스턴스 변수는 객체 생성 후 사용 가능
         si=5;
         System.out.println(si);
         return i+j;

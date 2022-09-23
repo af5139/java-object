@@ -1,4 +1,4 @@
-package java.test;
+package practice_java.test;
 
 public class Main {
     public static void main(String[] args) {
